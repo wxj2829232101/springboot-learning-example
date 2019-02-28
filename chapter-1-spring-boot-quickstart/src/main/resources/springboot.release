@@ -4,7 +4,7 @@
 code.language=oracle-jdk1.8
 
 # 构建打包使用的打包文件
-build.output=target/springboot.jar
+build.output=target/chapter-1-spring-boot-quickstart/springboot.jar
 
 # 应用部署脚本
 deploy.appctl.path=deploy.sh
